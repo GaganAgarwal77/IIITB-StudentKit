@@ -1,4 +1,4 @@
-***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_manual_v2_1.pdf" target="_blank" download>
+***<a href="https://github.com/zense/IIITB-StudentKit/raw/gh-pages/docs/iMTech_Curriculum_2020.pdf" target="_blank" download>
  Information about the iMTech course structure and electives </a>***
 
 ***<a href="https://www.quora.com/topic/International-Institute-of-Information-Technology-Bangalore-IIIT-B" target="_blank">Important Quora Q/As</a>***
@@ -53,16 +53,16 @@ programme, I finish one year early.**
 
 3. **What have been the placements of students from IIIT Bangalore?**
 
-    The third iMTech batch passed out in 2019 and the placement statistics
-    The packages for the iMTech 2019 batch were:
+    The fourth iMTech batch passed out in 2020 and these are the placement statistics.
+    The packages for the iMTech 2020 batch were:
 
-    **Max package : 54 LPA (Rubrik)**
+    **Max package : 43.31 LPA**
 
-    **Average package : 19 LPA**
+    **Average package : 24.88 LPA**
 
-    **Median package : 17 LPA**
+    **Median package : 23.84 LPA**
 
-    For more info, please visit <a href="https://www.iiitb.ac.in/aboutus.php?pid=Annual-Reports" target="_blank">Annual Placement Reports</a>.
+    For more info, please visit <a href="https://www.iiitb.ac.in/placement-statistics" target="_blank">Annual Placement Statistics</a>.
 
 4. **I am not able to pay the fee. Is any financial assistance available?**
 
@@ -121,14 +121,14 @@ programme, I finish one year early.**
   Separate Degrees of Btech and Mtech would be given after completion of the course.
   (Can not exit between the programme with just a Btech)
 
-10. **What are opening and closing JEE (Main) ranks in 2018 (branchwise)?**
+10. **What were the cutoff JEE (Main) ranks in 2019 (branchwise)?**
 
-  The cutoffs for 2018 were:
+  The cutoffs for 2020 were:
 
-  |  Branch  |   Opening    |   Closing    |
-  | ---   | --- | --- |
-  | CSE | 2344 | 8705 |
-  | ECE | 4525 | 11520 |
+  |  Branch  |   Cutoff Rank    |
+  | ---   | --- |
+  | CSE | 7300 |
+  | ECE | 9000 |
 
 
 11. **Is there any management quota?**
@@ -143,9 +143,9 @@ admissions in IIIT Bangalore ?**
 
 ##Admission FAQs
 
-1. **What is the cutoff for the first list in 2019?**
+1. **What is the cutoff for 2020?**
 
-  The cutoff for the first list was AIR 6,400 for both CSE and ECE.
+  The cutoff for CSE was 7300 and for ECE was 9000.
 
 2. **What is the last date to apply for a 100% refund at IIIT
     Bangalore?**
@@ -267,26 +267,29 @@ Clubs on campus?**
 
   iMTech students have done projects on iRobot.
 
-  Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Comic Club
+  Also we have multiple other clubs like the 8bit Club, Zense Developers Group , Robotics Club
   and many others.
 
     -   **<a href="http://zense.co.in/" target="_blank"> Zense Developers Group </a>**
     -   **<a href="https://www.facebook.com/iiitb.infin8/?ref=aymt_homepage_panel" target="_blank"> Infin8 Fest Committee </a>**
     -   **<a href="https://iiitbmagazine.wordpress.com/" target="_blank"> 8bit - Magazine Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Aikyam-130926363648287/info/?tab=page\_info" target="_blank"> Aikyam - IIITB Social  Work Club </a>**
-    -   **<a href="https://www.facebook.com/millionlaugh/" target="_blank"> Comic Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Music-Club-IIITB-379925368688073/" target="_blank"> Music Club IIITB </a>**
-    -   **<a href="https://citeatiiitb.wordpress.com/" target="_blank"> Cite. - Social Club IIITB </a>**
     -   **<a href="https://www.facebook.com/Innovation-Studio-IIIT-B-1281436805245370/" target="_blank"> Innovation Studio - E Cell IIITB </a>**
-    -   **<a href="https://www.facebook.com/groups/1786495348263059/" target="_blank"> Screening Committee - Movie Club IIITB </a>**
-    -   ***Chaayachitra - Photography Club IIITB***
-    -   ***Maths Club IIITB***
 
 8. **What are the Fests held in IIIT Bangalore?**
 
   An annual intracollege sports fest Spandan, is held each year, which
   sees participation from both students and alumni alike. Also, we have a
-  student run cultural fest (Infin8) which is being conducted since the last 4 years.
+  student run cultural fest (Infin8) which is being conducted since the last few years.
+  Umang is an annual inter college sports fest where teams from all over the city
+  compete in various sports. Sangam (the Alumni Day), also held every year,
+  is when the students put together an event for the Alumni of IIITB.
+  
+  We also have various other events like Yamini, Foundation Day, ISTEM, etc.
+  
+  Check out this link for more details:
+  **<a href="https://www.iiitb.ac.in/events-and-festivals/" target="_blank"> Events And Festivals </a>**
 
 9. **Is the transport facility (college bus) available?**
 
@@ -340,12 +343,12 @@ available in its vicinity?**
 
 15. **What is the system in IIIT Bangalore for washing clothes (students)?**
 
-  There are 3 ways to get your laundry done:
-  1. Wash yourself (separate washing areas are available, machines are not) and hang them in the washing areas and iron them in the ironing areas.
+  There are 4 ways to get your laundry done:
+  1. Wash yourself (separate washing areas are available) and hang them in the washing areas and iron them in the ironing areas.
   2. Laundry Anna (Laundry Services): Collects clothes at a price per Kg. You can choose what type of washing you want to be done. This is the most preferred method of laundry. Follows the schedule of TTS (Tuesday/Thursday/Saturday)
-  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna.
+  3. Dhobhi/Washerman: This costs a little bit lesser than Laundry Anna's services and is similar to Laundry Anna. Laundry Anna is preferred over Washerman because it is more systematic/organised.
+  4. Washing Machines: Installed during early 2020, there are five washing machines at the men's hostel and two at the women's. There also is a drier for each (pay and use). You are given a smart card and 12 washes per semester. Upon reaching the limit of 12, you can pay an amount for every wash after.
 
-  Laundry Anna is preferred over Washerman because it is more systematic/organised.
 
 16. **Are there any hotels nearby or will the accommodations be
     available in the college for parents?**
@@ -398,4 +401,4 @@ available in its vicinity?**
 24. **Which Laptop Should I buy?**
    You can view an excerpt from IIITB Handbook as a laptop buying guide:
 
-  **<a href="https://drive.google.com/file/d/1_BFTGeEt7MhEL2uepcByh21vpYSKQf4I/view?usp=sharing" target="_blank">Laptop Guide</a>**
+  **<a href="https://bit.ly/laptop-guide-2020" target="_blank">Laptop Guide</a>**

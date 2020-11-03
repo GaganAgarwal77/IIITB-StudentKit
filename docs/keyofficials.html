@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html lang="en">
 <body>
 <head>
@@ -11,11 +12,27 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
 
 body {
-  background-color: #EBEBEB;
+
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+  background-attachment: fixed;
   font-family: "Roboto", helvetica, arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
+}
+a{
+  color: #222b59;
+}
+tr:hover a{
+  text-decoration: none;
+  color: azure;
+}
+div.copyright-text{
+  color: azure;
+}
+div.copyright-text a{
+  color: azure;
 }
 
 div.table-title {
@@ -36,22 +53,24 @@ div.table-title {
    text-transform:uppercase;
 }
 .table-fill {
-  background: white;
+  /* background: white; */
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
   border-radius:3px;
   border-collapse: collapse;
   height: 320px;
   margin: auto;
-  max-width: 600px;
+  max-width: 1000px;
   padding:5px;
-  width: 100%;
+  width: 80%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
   animation: float 5s infinite;
+  table-layout: fixed;
 }
 
 th {
   color:#D5DDE5;;
   background:#1b1e24;
-  border-bottom:4px solid #9ea7af;
   border-right: 1px solid #343a45;
   font-size:23px;
   font-weight: 100;
@@ -73,18 +92,20 @@ th:last-child {
 tr {
   border-top: 1px solid #C1C3D1;
   border-bottom-: 1px solid #C1C3D1;
-  color:#666B85;
+  color:#222b59;
   font-size:16px;
   font-weight:normal;
   text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
 }
 
 tr:hover td {
-  background:#b5b1b1;
+  /* background:#b5b1b1; */
+  background-color: transparent;
   color:#FFFFFF;
   border-top: 1px solid #22262e;
   border-bottom: 1px solid #22262e;
 }
+
 
 tr:first-child {
   border-top:none;
@@ -95,11 +116,13 @@ tr:last-child {
 }
 
 tr:nth-child(odd) td {
-  background:#EBEBEB;
+  /* background:#eaf0ff; */
+  background-color: #f4f4ff;
+  background-blend-mode: lighten;
 }
 
 tr:nth-child(odd):hover td {
-  background:#b5b1b1;
+  background:transparent;
 }
 
 tr:last-child td:first-child {
@@ -112,6 +135,7 @@ tr:last-child td:last-child {
 
 td {
   background:#FFFFFF;
+  color: #222b59;
   padding:20px;
   text-align:left;
   vertical-align:middle;
@@ -148,68 +172,183 @@ td.text-center {
 td.text-right {
   text-align: right;
 }
+
+/* ------media queries----- */
+@media only screen and (max-width: 1131px) {
+  .table-fill {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 877px) {
+  td {
+    padding: 10px;
+  }
+  th.text-left {
+    width: 140px;
+  }
+}
+@media only screen and (max-width: 752px) {
+  th {
+    font-size: 21px;
+  }
+  td {
+    font-size: 16px;
+  }
+
+}
+@media only screen and (max-width: 690px) {
+  th {
+    font-size: 19px;
+    padding: 20px;
+  }
+  th:nth-child(1) {
+    width: 18%;
+  }
+  th:nth-child(2) {
+    width: 18%;
+  }
+  th:nth-child(3) {
+    width: 18%;
+  }
+  th:nth-child(4) {
+    width: 23%;
+  }
+  td.text-center img {
+    width: 98%;
+    height: auto;
+  }
+  td {
+    font-size: 14px;
+    overflow: auto;
+    padding: 7px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  th {
+    padding: 15px;
+  }
+  th:nth-child(1) {
+    width: 15%;
+  }
+  th:nth-child(3) {
+    width: 19%;
+  }
+  th:nth-child(4) {
+    width: 25%;
+  }
+}
+@media only screen and (max-width: 495px) {
+  th {
+    font-size: 17px;
+    color: #f2f4f7;
+  }
+  th:nth-child(1) {
+    width: 14%;
+  }
+  td {
+    font-size: 12.5px;
+  }
+  .copyright-text {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 440px) {
+  th {
+    font-size: 15px;
+    padding: 12px 10px;
+  }
+  th:nth-child(2) {
+    width: 16.5%;
+  }
+  td {
+    font-size: 11px;
+    padding: 5px;
+  }
+  .copyright-text {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 360px) {
+
+}
+/* ------media queries----- */
+
 </style>
 <table class="table-fill">
 <thead>
 <tr>
 <th class="text-left"></th>
-<th class="text-left">Name</th>
-<th class="text-left">Designation</th>
-<th class="text-left">Email-Id</th>
+<th class="text-center">Name</th>
+<th class="text-center">Designation</th>
+<th class="text-center">Email-Id</th>
 </tr>
 </thead>
 <tbody class="table-hover">
 
 <tr>
-<td class="text-left"><img src="../images/director.JPG" width="120" height="120" alt=""></td>
-<td class="text-left">
-  <a href="https://www.iiitb.ac.in/faculty_page.php?name=ssadagopanprofessordirectoriiitb">Prof. S Sadagopan</a>
+<td class="text-center"><img src="../images/director.JPG" width="120" height="120" alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/administration/s-sadagopan'">
+  Prof. S Sadagopan
 </td>
-<td class="text-left">Director</td>
-<td class="text-left"><a href="mailto:s.sadagopan@iiitb.ac.in">s.sadagopan@iiitb.ac.in</a></td>
+<td class="text-center">Director</td>
+<td class="text-center"><a href="mailto:s.sadagopan@iiitb.ac.in">s.sadagopan@iiitb.ac.in</a></td>
 </tr>
 
 <tr>
-<td class="text-left"><img src="../images/mr.JPG" width="120" height="120" alt=""></td>
-<td class="text-left">
-  <a href="https://www.iiitb.ac.in/faculty_page.php?name=madhavrao">Prof. Madhav Rao</a>
+<td class="text-center"><img src="../images/mr.JPG" width="120" height="120" alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/faculty/madhav-rao'">
+  Prof. Madhav Rao
 </td>
-<td class="text-left">iM.Tech Coordinator</td>
-<td class="text-left"><a href="mailto:coordinator-imtech@iiitb.ac.in">coordinator-imtech@iiitb.ac.in</a></td>
+<td class="text-center">iM.Tech Coordinator</td>
+<td class="text-center"><a href="mailto:coordinator-imtech@iiitb.ac.in">coordinator-imtech@iiitb.ac.in</a></td>
 </tr>
 
 <tr>
-<td class="text-left"><img src="../images/sr-sridhar.jpg" width="120" height="120"alt=""></td>
-<td class="text-left">SR SRIDHAR</td>
-<td class="text-left">Registrar</td>
-<td class="text-left"><a href="mailto:Registrar@iiitb.ac.in">Registrar@iiitb.ac.in</a></td>
+<td class="text-center"><img src="../images/sr-sridhar.jpg" width="120" height="120"alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/administration/cmde-sr-sridhar-retd-2'">
+  SR Sridhar
+</td>
+<td class="text-center">Registrar</td>
+<td class="text-center"><a href="mailto:Registrar@iiitb.ac.in">Registrar@iiitb.ac.in</a></td>
 </tr>
 
 <tr>
-<td class="text-left"><img src="../images/rc.JPG" width="120" height="120" alt=""></td>
-<td class="text-left">
-  <a href="https://www.iiitb.ac.in/faculty_page.php?name=chandrashekarramanathan">Prof. Chandrashekar Ramanathan</a> 
+<td class="text-center"><img src="../images/rc.JPG" width="120" height="120" alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/faculty/chandrashekar-ramanathan'">
+  Prof. Chandrashekar Ramanathan
 </td>
-<td class="text-left">Dean(Academics)</td>
-<td class="text-left"><a href="mailto:dean-academics@iiitb.ac.in">dean-academics@iiitb.ac.in</a></td>
+<td class="text-center">Dean(Academics)</td>
+<td class="text-center"><a href="mailto:dean-academics@iiitb.ac.in">dean-academics@iiitb.ac.in</a></td>
 </tr>
 
 <tr>
-<td class="text-left"><img src="../images/jb.JPG" width="120" height="120"alt=""></td>
-<td class="text-left">
-  <a href="https://www.iiitb.ac.in/faculty_page.php?name=jyotsnabapat">Prof. Jyotsna Bapat</a> 
+<td class="text-center"><img src="../images/jb.JPG" width="120" height="120"alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/faculty/jyotsna-bapat'">
+  Prof. Jyotsna Bapat
 </td>
-<td class="text-left">Dean(Faculty)</td>
-<td class="text-left"><a href="mailto:dean-faculty@iiitb.ac.in">dean-faculty@iiitb.ac.in</a></td>
+<td class="text-center">Dean(Faculty)</td>
+<td class="text-center"><a href="mailto:dean-faculty@iiitb.ac.in">dean-faculty@iiitb.ac.in</a></td>
 </tr>
 
 <tr>
-<td class="text-left"><img src="../images/ss.JPG"width="120" height="120" alt=""></td>
-<td class="text-left">
-  <a href="https://www.iiitb.ac.in/faculty_page.php?name=srinathsrinivasa">Prof. Srinath Srinivasa</a> 
+<td class="text-center"><img src="../images/ss.JPG"width="120" height="120" alt=""></td>
+<td class="text-center"
+    style="cursor:pointer"
+    onclick="location.href='https://www.iiitb.ac.in/faculty/srinath-srinivasa'">
+  Prof. Srinath Srinivasa
 </td>
-<td class="text-left">Dean(R&D)</td>
-<td class="text-left"><a href="mailto:dean-rd@iiitb.ac.in">dean-rd@iiitb.ac.in</a></td>
+<td class="text-center">Dean(R&D)</td>
+<td class="text-center"><a href="mailto:dean-rd@iiitb.ac.in">dean-rd@iiitb.ac.in</a></td>
 </tr>
 
 </tbody>
@@ -217,7 +356,7 @@ td.text-right {
 <br><br>
 <div class="col-sm-12">
     <div class="copyright-text text-center">
-        <p>&copy; Zense 2017. All Rights Reserved</p>
+        <p>&copy; Zense 2020. All Rights Reserved</p>
         <p>Designed by <a href="http://zense.co.in/">Zense</a></p>
     </div>
     </div>

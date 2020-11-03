@@ -2,18 +2,16 @@
 
 ## 8Bit
 
-<img src = "../images/clubs/8bit.png" width="250" height="170"> </img>
+<img src = "../images/clubs/8bit.jpeg" width="250" height="250"> </img>
 
-8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run club, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
+8Bit is the official magazine of IIIT Bangalore. It is an entirely student-run committee, where they are the sole in-charge of editing the magazine, and deciding its content and structure.
 
 The magazine provides an outlet for your creativity - all your thoughts, artistic endeavors and humor. The best part about 8Bit is that it is not limited to a specific type of content and has a place for everyone - whether you are a designer, artist, writer, editor, poet or just a social person who wants to know people by talking or interviewing them.
 
 Here at 8Bit, the bonds are formed over lively discussion sessions and late night editing and designing marathons.
 So join us for a different take in an IT college, to give you a break and let you explore your lesser known interests!
 
-You can check out our editions <a href="https://drive.google.com/open?id=0B1ktCrJiOYtqUGdYd0tkZDdaWm8" target="_blank"> here </a> !!.
-
-Find us on <a href="https://www.facebook.com/8-Bit-IIIT-Bangalore-698803226888411/" target="_blank">Facebook</a>.
+You can check out all our editions <a href="https://iiitbac-my.sharepoint.com/:f:/g/personal/alumnioffice_iiitb_ac_in/EqrUjY3l7oxOkyaGHw4tWvABKIGV4j88cw2jAO514V9blg?e=kS9lTf" target="_blank"> here </a> !!.
 
 ## Aikyam
 
@@ -32,6 +30,18 @@ Why do we do all this? We believe that ‘Unity is the secret of social progress
 We look forward to join more hands to make our society a happier place to live in. To send in your opinions on what you can do or share any idea on social responsibility or for more such social activities, do mail us at <a href="mailto:aikyam@iiitb.org" target="_blank">aikyam@iiitb.org</a>.
 
 Find us on <a href="https://www.facebook.com/Aikyam-130926363648287/" target="_blank">Facebook</a>.
+
+## Aksh (Literature Club)
+
+‘Aksh’ – The IIITB Literature Club was formed in October 2019 and since then it has been active in organising various events in the campus as well as online during the lockdown. This club is an attempt to foster literary activities such as poetry, writing and reading among the students and allow them to put emotions into words. Literature helps us understand the world in a better way and it brings diverse groups of people together on the same page. It also acts as the means to create a common platform for self-expression, discussions, and mutual learning. The Club aims at not only refining the literary skills of the students but also developing in them logic and curiosity to know more. Club also works on discovering unique ways to develop an understanding, respect and appreciation of others ideas and thoughts.
+
+Type of Events organized by Aksh are: 
+1. Poetry recitation
+2. Story telling
+3. Writing(article/creative/blog/social media post etc)
+4. Workshops and Competitions
+5. Open Mic Performance
+6. Discussions
 
 ## Alumni Committee
 
@@ -102,20 +112,21 @@ Our motto: To produce ACM-ICPC world finalists every year!
 Find us on <a href = "https://www.facebook.com/iiitbcp/" target="_blank"> Facebook .</a>
 
 ## Dance Club
+<img src = "../images/clubs/DanceClub.jpeg" width="180" height="200"> </img>
 
 Every time you feel the pressure of assignments and work, the Dance Club comes to the rescue! We provide you with every opportunity to relax, let you hair down, and show us some moves ;)  
 
-Although the club was formed in 2016, we have had tremondous particicpation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted a flash mob during our college fest - Infin8.
+Although the club was formed in 2016, we have had tremendous participation and the club has grown by leaps and bounds. The club has organized many events, ranging from groovy DJ nights to serious inter-batch dance competitions. We never miss a chance to perform! We dance at all major college events be it the college's Foundation Day, or Independence Day. We even conducted a flash mob during our college fest - Infin8.
 
 We welcome dancers of all genres, be it Classical , Bollywood or hip-hop to come and join us. However, the dance club is not just for "seasoned" dancers, it's for anyone who has a love and passion for dance, and a willingness to learn. We have had professionals take dance lessons at college, including Zumba sessions and a Bollywood dance workshop during Infin8. And there are always dance jams, where anyone can come and have some fun!!
 
 So shake a leg guys... we're waiting for you!
 
-Join us on <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
+Join us on <a href = "https://www.instagram.com/iiitbdanceclub/" target = "_blank"> Instagram </a> and <a href = "https://www.facebook.com/groups/840337612790191/" target = "_blank"> Facebook </a>.
 
 ## Enigma (Robotics Club)
 
-<img src = "../images/clubs/enigma.png"> </img>
+<img src = "../images/clubs/enigma.png" width="200"> </img>
 
 Enigma, the robotics club was founded in 2016. The objective of this club is to develop awareness and interest in robotics and AI. The club is mentored by the seniors and faculty of the college. Here we hold various workshops and help students to start from basics projects like Maze solver, Line Follower and various other small projects. The club works on a few long term projects including a solar powered tiller and a fire fighting drone. These projects are currently funded and mentored by the college.
 
@@ -129,6 +140,19 @@ This committee gives an exposure to different food cultures in our country and a
 
 If you are someone who needs to polish their managerial skills, friend, this is the right place to start with.
 Join us and make a wonderful eating experience for everyone at IIIT Bangalore.
+
+## Google Developer Student Club
+
+<img src = "../images/clubs/dsc.png" width="500" > </img>
+
+Google Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for their community.
+
+The objectives for Google DSC IIIT-B will be as follows:
+1. Creating awareness and preparing candidates for the various opportunities available for them.
+2. Providing a platform for inviting speakers and conducting regular sessions/workshops on technical domains.
+3. Mentoring peers through their projects, competition preparation, etc.
+
+Find us on <a href = "https://www.instagram.com/dsc.iiitb/" target = "_blank"> Instagram </a> and <a href = "https://www.linkedin.com/company/dsc-iiitb" target = "_blank"> Linkedin</a>.
 
 ## Innovation Studio
 
@@ -183,7 +207,8 @@ SPIC MACAY runs on the energy of volunteers who come from all walks of life - st
 
 <img src="../images/clubs/TAC.jpg" width="350" height="250"> </img>
 
-Parvaaz is a humble effort to bring the artistic expression to the campus in the form of a plethora of thespian talents such as mime, theatre, street play. We, the members of the Parvaaz have delighted the audience by our performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harrassment(along with Internal Complains committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam and Yamini promotion, Campus life video etc.
+One of the most successful groups, Parvaaz has won many accolades for the college in various inter-college festivals with their enthralling performances. Parvaaz is a humble effort to bring artistic expression to the campus in the form of a plethora of thespian talents such as stage play, mime, theatre, street play, short films, parodies. We, the members of Parvaaz have delighted the audience by their performances on Teacher's day, Women's day, as well as raised and created awareness on issues like food wastage(along with Food committee), and sexual harassment(along with Internal Complaints Committee), essentially capturing the zeitgeist of quintessential campus life. We also work in collaboration with Chhayachitra in producing promotional videos like Sangam, Yamini promotion, Campus life video etc. and also with the music club and placement committee for the parody of Kabir Singh, namely Fakir Singh which was loved by the audience for its songs and comedy. 
+
 
 We also participate in interactive college theatre competitions.
 If you find yourself bitten by the theatre bug, and want to showcase your talents in acting, writing, direction and screenplay, costume design or video editing, avail yourself a position amongst us. You are guaranteed to learn, teach, and most importantly have fun.
